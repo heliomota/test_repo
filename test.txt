@@ -1,7 +1,3 @@
 Hi!
 
-<<<<<<< HEAD
-AHAHHHHYOOOOOOOOO
-=======
-UUUUPS
->>>>>>> 80e2d0a5ba8c7548f4999665c1fe75f222c5ec4b
+MERGED
